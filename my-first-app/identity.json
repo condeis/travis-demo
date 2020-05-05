@@ -1,0 +1,81 @@
+{
+  "identity": {
+    "IDSchemaVersion": 1.1,
+    "UIN": 9687061349,
+    "firstName": [{
+      "language": "fra",
+      "value": "BANGOURA"
+    }],
+    "lastName": [{
+      "language": "fra",
+      "value": "ABOUBACAR"
+    }],
+    "gender": [{
+      "language": "fra",
+      "value": "MASCULIN"
+    }],
+    "dateOfBirth": "20/06/1986",
+    "age": 34,
+    "phone": "622989848",
+    "email": "bangoura.abou@gmail.com",
+    "region": [{
+        "language": "fra",
+        "value": "CONAKRY"
+      }
+
+    ],
+    "regionCode": "1",
+    "prefecture": [{
+      "language": "fra",
+      "value": "KALOUM"
+    }],
+    "prefectureCode": "8",
+    "subPrefectureOrCommune": [{
+      "language": "fra",
+      "value": "KASSA"
+    }],
+    "district": [{
+      "language": "fra",
+      "value": "FOTOBA"
+    }],
+    "sector": [{
+        "language": "fra",
+        "value": "ROGNANET"
+      }
+
+    ],
+
+
+    "additionalAddressDetails": "MANGUEBOUNGNI",
+
+
+    "individualBiometrics": {
+      "format": "cbeff",
+      "version": 1.0,
+      "value": "applicant_bio_CBEFF"
+    },
+
+ 
+    "proofOfConsent": {
+      "format": "pdf",
+      "type": "POC",
+      "value": "fileReferenceID"
+    },
+    "proofOfAddress": {
+      "format": "pdf",
+      "type": "RC",
+      "value": "fileReferenceID"
+    },
+
+    "proofOfIdentity": {
+      "format": "jpg",
+      "type": "CIN",
+      "value": "fileReferenceID"
+    } ,
+    "proofOfDateOfBirth": {
+      "format": "pdf",
+      "type": "BC",
+      "value": "fileReferenceID"
+    }
+  }
+}
